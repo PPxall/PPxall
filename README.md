@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm masterPatt</h1>
+<h1 align="center">I'm masterPatt</h1>
 <h3 align="center">I'm just someone who can write a very bad code. So you have to deal with it more</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterpatt&label=Profile%20views&color=0e75b6&style=flat" alt="masterpatt" /> </p>
@@ -21,9 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adminPatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adminPatt" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterpatt&show_icons=true&locale=en&layout=compact" alt="masterpatt" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=masterpatt&show_icons=true&locale=en" alt="masterpatt" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=masterpatt&" alt="masterpatt" /></p>
